@@ -52,7 +52,7 @@ This repository contains a Power BI project analyzing global inflation trends fr
 ### 📷 Screenshots
 
 
-`![Dashboard Screenshot 1](screenshots/dashboard.png)`
+`![Dashboard Screenshot 1](main/screenshots/dashboard.png)`
 
 `![Dashboard Screenshot 2](screenshots/overview.png)`
 
