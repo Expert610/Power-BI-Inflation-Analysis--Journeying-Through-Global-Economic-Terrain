@@ -52,13 +52,13 @@ This repository contains a Power BI project analyzing global inflation trends fr
 ### 📷 Screenshots
 
 
-`![Dashboard Screenshot 1](main/screenshots/dashboard.png? raw=true)`
+![Dashboard Screenshot 1](https://raw.githubusercontent.com/Expert610/Power-BI-Inflation-Analysis--Journeying-Through-Global-Economic-Terrain/main/screenshots/dashboard.png)
 
-`![Dashboard Screenshot 2](screenshots/overview.png)`
+![Dashboard Screenshot 2](https://raw.githubusercontent.com/Expert610/Power-BI-Inflation-Analysis--Journeying-Through-Global-Economic-Terrain/main/screenshots/overview.png)
 
-`![Dashboard Screenshot 2](https://github.com/Expert610/Power-BI-Inflation-Analysis--Journeying-Through-Global-Economic-Terrain/main/screenshots/country.png?raw=true)`
+![Dashboard Screenshot 3](https://raw.githubusercontent.com/Expert610/Power-BI-Inflation-Analysis--Journeying-Through-Global-Economic-Terrain/main/screenshots/country.png)
 
-`![Dashboard Screenshot 2](https://github.com/Expert610/Power-BI-Inflation-Analysis--Journeying-Through-Global-Economic-Terrain/tree/main/screenshots/time.png?raw=true)`
+![Dashboard Screenshot 4](https://raw.githubusercontent.com/Expert610/Power-BI-Inflation-Analysis--Journeying-Through-Global-Economic-Terrain/main/screenshots/time.png)
 
 ---
 
