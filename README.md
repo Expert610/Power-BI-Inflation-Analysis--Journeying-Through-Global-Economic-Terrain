@@ -65,7 +65,7 @@ This repository contains a Power BI project analyzing global inflation trends fr
 ## 📑 Final Project Report
 
 You can access the full documentation here:
-👉 [Final Project Report ](link-to-your-report.docx)
+👉 [Final Project Report ](https://github.com/Expert610/Power-BI-Inflation-Analysis--Journeying-Through-Global-Economic-Terrain/blob/main/Project%20Documentation%20and%20Demonstration/Final%20Project%20Report.pdf)
 
 ---
 
@@ -73,7 +73,7 @@ You can access the full documentation here:
 
 * **Name**: Muhammad Yasir
 * **Role**: Data Analyst 
-* **Contact**: [[yaisikhan111@gmail.com](mailto:yaisikhan111@gmail.com)]
+* **Contact**: [yaisikhan111@gmail.com](mailto:yaisikhan111@gmail.com)
 
 
 ---
